@@ -1,3 +1,3 @@
 # Practica_GoogleSites_BielBermejoGuzman
 Este enlace del repositorio explica de manera sencilla qué son los routers, switches y puntos de acceso, sus funciones y su importancia en las redes de comunicación.
-[Google sites](https://sites.google.com/elpuig.xeill.net/maquinaria-de-red-bielbermejo/p%C3%A0gina-principal) 
+# Enlace: [Google sites](https://sites.google.com/elpuig.xeill.net/maquinaria-de-red-bielbermejo/p%C3%A0gina-principal) 
